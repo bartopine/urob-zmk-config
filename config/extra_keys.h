@@ -1,7 +1,7 @@
-// The default layout has 34 keys. Additional keys can be added by pre-setting any of
-// the macros defined in this file to one or more keys before sourcing this file.
+/* The default layout has 34 keys. Additional keys can be added by pre-setting any of
+the macros defined in this file to one or more keys before sourcing this file.
 
-/* left of left half */
+left of left half */
 #if !defined X_LT  // top row, left
     #define X_LT
 #endif
@@ -36,10 +36,3 @@
 #if !defined X_RM  // middle row, right
     #define X_RM
 #endif
-#if !defined X_RB  // bottom row, right
-    #define X_RB
-#endif
-#if !defined X_RH  // thumb row, right
-    #define X_RH
-#endif
-
