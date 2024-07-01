@@ -26,7 +26,7 @@
 #define XXX &none
 #define ___ &trans
 
-/* Global settings First Try*/
+/* Global settings */
 
 #define QUICK_TAP_MS 175
 
